@@ -1,8 +1,9 @@
 # lisp-interpreter
 A lisp interpreter (or: the maxwell’s equations of software)
 
-Based on [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf) by Paul Graham.
-
+Based on [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf) by Paul Graham
+and [The Dawn of Lisp, or: How to Write Eval and Apply in Clojure](https://github.com/ariel-ortiz/the-dawn-of-lisp) by 
+Ariel Ortiz.
 
 ## Operators
 
